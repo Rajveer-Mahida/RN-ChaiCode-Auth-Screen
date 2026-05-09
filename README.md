@@ -9,6 +9,8 @@ https://dribbble.com/shots/24783022-osler-AI-Telehealth-Telemedicine-App-Sign-In
 
 ## App Screenshot
 
-![SignIn Screen](./assets/images/signin.jpg)
-![SignUp Screen](./assets/images/signup.jpg)
-![Forgot Password Screen](./assets/images/forgot_password.jpg)
+<p align="center">
+  <img src="./assets/images/signin.jpg" alt="SignIn Screen" width="250" />
+  <img src="./assets/images/signup.jpg" alt="SignUp Screen" width="250" />
+  <img src="./assets/images/forgot_password.jpg" alt="Forgot Password Screen" width="250" />
+</p>
